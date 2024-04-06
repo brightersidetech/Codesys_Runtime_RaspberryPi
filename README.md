@@ -15,7 +15,7 @@ Download the Control Runtime Package file form here: [https://store.codesys.com/
 Use the Codesys installer to install the package file on your local computer. (Watch video below for help)
 
 ### Transfer Installation file to your Rapsberry pi
-Locate the Folders whee the pacake files have been installed and transfer the following files to your Raspberry Pi. The ```x.x.x.x``` represent the Runtime version and will depend on the version you have downloaded. This project is using the 
+Locate the Folders whee the pacake files have been installed and transfer the following files to your Raspberry Pi. The ```x.x.x.x``` represent the Runtime version and will depend on the version you have downloaded. 
 
 * The ```codesyscontrol_linuxarm_4.1.0.0_armhf.deb``` located in the \\\<USER>\CODESYS Control for Linux ARM SL\Delivery folder
 * The ```codemeter-lite_7.20.4402.501_armhf.deb``` located in the \\\<USER>\CODESYS Control for Linux ARM SL\Dependency folder
@@ -118,4 +118,4 @@ From your Raspberry, follow the following steps
 ### Watch the Video Tutorial for more instructions
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/8GcxFJbOXW8/mqdefault.webp?v=66114a1f&sqp=CIz4xbAG&rs=AOn4CLAalqIqECOyQJayZhuyXFcm6Pvvkw)](https://www.youtube.com/watch?v=8GcxFJbOXW8)
